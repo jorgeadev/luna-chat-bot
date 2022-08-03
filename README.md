@@ -1,4 +1,4 @@
-# LunaChatBot
+# Luna Chat Bot
 Just another Telegram AI chat bot written in Python using Pyrogram.
 
 A public runing instance can be found as [@LunaChatBot](https://t.me/LunaChatBot).
